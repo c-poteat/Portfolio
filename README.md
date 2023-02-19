@@ -47,8 +47,10 @@ Bachelor of Business Administration<br>
      width="75" 
      height="75" />
 
-### Notable Projects
-
-
 ---
+### Notable Projects
+<a href="https://github.com/c-poteat/passionProject" target="_blank">Receipe Linker (Java · JavaScript · HTML/CSS)</a><br>
+<a href="https://github.com/c-poteat/webscraper-PS" target="_blank">WebScraper (PowerShell)</a><br>
+<a href="https://github.com/CAMP-team/FullStack-Campr" target="_blank">Youtube Clone - Full Stack Campr (Java · JavaScript · HTML/CSS)</a> 
+
 
